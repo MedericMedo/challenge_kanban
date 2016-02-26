@@ -1,0 +1,78 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.input-ajout {
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
+
+.input-ajout input {
+  border-radius: 5px;
+  width: 100%;
+  height: 2.5em;
+  padding-left: 1em;
+}
+
+/*##############colone 2######################*/
+
+.colone1 {
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+.colone1 ul {
+  padding-left: 0;
+}
+
+.colone1 ul li {
+  list-style-type: none;
+}
+
+.colone1 h2 {
+  margin-bottom: 2em;
+}
+
+/*###########colone 2###############*/
+
+.colone2 {
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+.colone2 ul {
+  padding-left: 0;
+}
+
+.colone2 ul li {
+  list-style-type: none;
+}
+
+.colone2 h2 {
+  margin-bottom: 2em;
+}
+
+.colone2 button {
+  width: 40%;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+/*############colone 3#######################*/
+
+.colone3 {
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+.colone3 ul {
+  padding-left: 0;
+}
+
+.colone3 ul li {
+  list-style-type: none;
+}
+
+.colone3 h2 {
+  margin-bottom: 2em;
+}
